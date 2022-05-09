@@ -255,7 +255,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -288,6 +288,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1620,9 +1632,8 @@ TextureImporter:
       Tilled Dirt_31: 5040298762239175144
       Tilled Dirt_22: -3475564288263611698
       Tilled Dirt_56: 3679431958384527048
-      Tilled Dirt_50: 5346463563563866626
-      Tilled Dirt_3: 6800109163939881490
       Tilled Dirt_52: -5153838886757014664
+      Tilled Dirt_3: 6800109163939881490
       Tilled Dirt_59: 8415687069071206905
       Tilled Dirt_34: 1502009428008966496
       Tilled Dirt_27: 292377452007256867
@@ -1673,6 +1684,7 @@ TextureImporter:
       Tilled Dirt_16: 5595594023753145576
       Tilled Dirt_40: 3623860858058030616
       Tilled Dirt_29: -5744509462713329652
+      Tilled Dirt_50: 5346463563563866626
       Tilled Dirt_15: -1107591558276842856
       Tilled Dirt_24: -8638708212118356541
       Tilled Dirt_44: 8859829921729688251

@@ -589,6 +589,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 494315780}
     m_Modifications:
+    - target: {fileID: 2929252283123773937, guid: aaa2c939c0359ac4dbce3f49e8b90252, type: 3}
+      propertyPath: m_Color.b
+      value: 0.14159843
+      objectReference: {fileID: 0}
+    - target: {fileID: 2929252283123773937, guid: aaa2c939c0359ac4dbce3f49e8b90252, type: 3}
+      propertyPath: m_Color.g
+      value: 0.6981132
+      objectReference: {fileID: 0}
+    - target: {fileID: 2929252283123773937, guid: aaa2c939c0359ac4dbce3f49e8b90252, type: 3}
+      propertyPath: m_Color.r
+      value: 0.15601589
+      objectReference: {fileID: 0}
     - target: {fileID: 2929252283123773938, guid: aaa2c939c0359ac4dbce3f49e8b90252, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -19735,7 +19747,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _sword: {fileID: 0}
   joystick: {fileID: 670030633}
-  speed: 1000
+  speed: 100
 --- !u!212 &2112696802
 SpriteRenderer:
   m_ObjectHideFlags: 0

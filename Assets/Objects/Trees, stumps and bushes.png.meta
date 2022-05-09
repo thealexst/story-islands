@@ -261,7 +261,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -294,6 +294,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1687,19 +1699,19 @@ TextureImporter:
       Trees, stumps and bushes_18: -30757173560343757
       Trees, stumps and bushes_16: 3433423990023837292
       Trees, stumps and bushes_9: -4778790037128270620
+      Trees, stumps and bushes_61: -4971958776802571404
       Trees, stumps and bushes_47: -7496602799314991082
       Trees, stumps and bushes_30: -2306525047669428402
-      Trees, stumps and bushes_46: 3533080235740896701
       Trees, stumps and bushes_52: -306418838855559647
-      Trees, stumps and bushes_32: -6958079982491524195
+      Trees, stumps and bushes_46: 3533080235740896701
       Trees, stumps and bushes_13: -9130829611487989354
       Trees, stumps and bushes_12: -6924567606925549394
+      Trees, stumps and bushes_32: -6958079982491524195
       Trees, stumps and bushes_53: 496579455509175709
       Trees, stumps and bushes_50: 3233097831122237997
       Trees, stumps and bushes_5: 887620231642604409
-      Trees, stumps and bushes_39: 1968493956696502159
-      Trees, stumps and bushes_61: -4971958776802571404
       Trees, stumps and bushes_28: -7556414797353108329
+      Trees, stumps and bushes_39: 1968493956696502159
       Trees, stumps and bushes_6: 164194451464133973
       Trees, stumps and bushes_19: -2030407101928326500
       Trees, stumps and bushes_25: -4003608752731276888

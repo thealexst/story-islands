@@ -273,7 +273,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -306,6 +306,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1767,11 +1779,10 @@ TextureImporter:
       slime_purple_25: -931352168568647360
       slime_purple_43: -5888940029672116103
       slime_purple_28: 7096692185888526137
-      slime_purple_33: 1869260177037772682
-      slime_purple_56: 1557053910358290804
       slime_purple_51: 3947060004456032459
+      slime_purple_56: 1557053910358290804
       slime_purple_14: 3452716412684735493
-      slime_purple_55: -2995373578935351265
+      slime_purple_39: 2702551333584680581
       slime_purple_19: 8921864834722777396
       slime_purple_18: 1677617946496084348
       slime_purple_27: -2010010011899123843
@@ -1797,6 +1808,7 @@ TextureImporter:
       slime_purple_20: -4406092783773325604
       slime_purple_23: -190733124742695582
       slime_purple_8: 3533774183753432373
+      slime_purple_55: -2995373578935351265
       slime_purple_53: 7594213962425479286
       slime_purple_44: -1971781836230721296
       slime_purple_62: 8164546988815165014
@@ -1821,11 +1833,11 @@ TextureImporter:
       slime_purple_7: -5185611389655813280
       slime_purple_1: 3387878688400670293
       slime_purple_57: -1389992844618079153
-      slime_purple_21: -3491146590987377147
+      slime_purple_48: -3322455762616689324
       slime_purple_41: -8280981770823852237
       slime_purple_58: 8344363917334186745
-      slime_purple_48: -3322455762616689324
-      slime_purple_39: 2702551333584680581
+      slime_purple_21: -3491146590987377147
+      slime_purple_33: 1869260177037772682
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour
     private Animator myAnim;
     [SerializeField]
     public float speed;
+
     
     private float attackTime = .25f;
     private float attackCounter= .25f;

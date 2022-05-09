@@ -282,7 +282,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -315,6 +315,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1830,7 +1842,6 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Grass_62: 1783213808783142998
       Grass_33: 7480997201496867402
       Grass_5: -7255497285719700247
       Grass_22: -5746465488554784155
@@ -1865,14 +1876,14 @@ TextureImporter:
       Grass_30: 867027377922445235
       Grass_64: -953007637746616386
       Grass_27: -2083932125734120256
-      Grass_19: 8708326412996271838
       Grass_23: -5105955547117038907
       Grass_8: 2289616372777055746
+      Grass_58: -1318756051056640941
       Grass_24: 6568613397067072510
       Grass_52: -3365635889071900459
-      Grass_9: 7471297114442723461
+      Grass_19: 8708326412996271838
       Grass_70: 7747304958098319028
-      Grass_58: -1318756051056640941
+      Grass_9: 7471297114442723461
       Grass_35: 5070681551309443399
       Grass_38: 6815309071022534888
       Grass_21: 1134508411569925052
@@ -1895,6 +1906,7 @@ TextureImporter:
       Grass_65: 4108299680548352126
       Grass_56: 4254727308752461092
       Grass_44: 3731086581688822653
+      Grass_62: 1783213808783142998
       Grass_55: 5274774520206374834
       Grass_37: -1848801932137997923
       Grass_47: 2073705009435843567

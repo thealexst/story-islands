@@ -693,7 +693,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -726,6 +726,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -5181,11 +5193,11 @@ TextureImporter:
       Premium Charakter Spritesheet_223: -9105205190257280172
       Premium Charakter Spritesheet_205: 1821550017761756049
       Premium Charakter Spritesheet_4: 169541720026308916
-      Premium Charakter Spritesheet_48: -7292567590876523414
       Premium Charakter Spritesheet_96: -409334892939602122
-      Premium Charakter Spritesheet_150: -7598302585876081908
+      Premium Charakter Spritesheet_48: -7292567590876523414
       Premium Charakter Spritesheet_34: 8418014412786158716
       Premium Charakter Spritesheet_138: -3778506220433026294
+      Premium Charakter Spritesheet_150: -7598302585876081908
       Premium Charakter Spritesheet_40: -7155699022714532397
       Premium Charakter Spritesheet_226: 54863361019765768
       Premium Charakter Spritesheet_2: 7843901438540452665
@@ -5198,11 +5210,11 @@ TextureImporter:
       Premium Charakter Spritesheet_198: -3977302907694945230
       Premium Charakter Spritesheet_121: -3094118235386497689
       Premium Charakter Spritesheet_143: -242889595772975811
-      Premium Charakter Spritesheet_179: 811751485016036878
       Premium Charakter Spritesheet_186: -8472728358704900994
-      Premium Charakter Spritesheet_154: -5504103029506919034
       Premium Charakter Spritesheet_215: 7814004256720545223
       Premium Charakter Spritesheet_225: -4916620719100735099
+      Premium Charakter Spritesheet_154: -5504103029506919034
+      Premium Charakter Spritesheet_179: 811751485016036878
       Premium Charakter Spritesheet_114: -7579877397557842360
       Premium Charakter Spritesheet_77: -8326279742407221671
       Premium Charakter Spritesheet_10: -4513826330233787384
@@ -5281,14 +5293,14 @@ TextureImporter:
       Premium Charakter Spritesheet_187: -5438848891355355437
       Premium Charakter Spritesheet_108: -7284205458174469467
       Premium Charakter Spritesheet_70: -3314096410856753825
-      Premium Charakter Spritesheet_133: 5714275938554275491
+      Premium Charakter Spritesheet_218: 441265744856635702
       Premium Charakter Spritesheet_123: 744329568565498103
       Premium Charakter Spritesheet_177: -5120609411541469920
-      Premium Charakter Spritesheet_218: 441265744856635702
       Premium Charakter Spritesheet_1: -1004689174341951383
-      Premium Charakter Spritesheet_149: 1255681505033342311
+      Premium Charakter Spritesheet_133: 5714275938554275491
       Premium Charakter Spritesheet_35: 2299429967406042437
       Premium Charakter Spritesheet_122: 7302753688235261019
+      Premium Charakter Spritesheet_149: 1255681505033342311
       Premium Charakter Spritesheet_18: 5691647397884745944
       Premium Charakter Spritesheet_43: -4043771313483519431
       Premium Charakter Spritesheet_59: 57094653575928625
