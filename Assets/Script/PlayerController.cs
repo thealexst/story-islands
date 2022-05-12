@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    public static PlayerController playerController;
     [SerializeField] private GameObject _sword;
     public Joystick joystick;
 
@@ -11,6 +12,9 @@ public class PlayerController : MonoBehaviour
     private Animator myAnim;
     [SerializeField]
     public float speed;
+
+    public int coins;
+    public int gold_coin;
 
     
     private float attackTime = .25f;

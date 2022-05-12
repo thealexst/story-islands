@@ -12,6 +12,7 @@ public class HealthManager : MonoBehaviour
     private float flashLenght = 0;
     private float flashCounter = 0;
     private SpriteRenderer playerSprite;
+    public GameObject lootDrop;
 
     // Start is called before the first frame update
     void Start()
@@ -71,6 +72,7 @@ public class HealthManager : MonoBehaviour
         if (currentHealth<=0)
         {
             gameObject.SetActive(false);
+            Instantiate(lootDrop, transform.position, Quaternion.identity);
         }
     }
 }
